@@ -1,4 +1,5 @@
-I -> a | b | Ia | Ib | I0 | I1
-F -> I | (E)
-T -> F | T * F
-E -> T | E + T
+S ->aAa|bBb|ε
+A ->C|a
+B ->C|b
+C ->CDE|ε
+D ->A|B|ab
