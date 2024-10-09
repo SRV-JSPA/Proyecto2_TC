@@ -1,5 +1,0 @@
-S -> bBb|aa|bb|aAa
-A -> a|C
-B -> b|C
-C -> DE|CDE
-D -> B|ab|A
